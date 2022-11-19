@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/city-online-game/static/css/main.a88f778e.css",
-    "main.js": "/city-online-game/static/js/main.2c0ae258.js",
+    "main.css": "/city-online-game/static/css/main.3cecba18.css",
+    "main.js": "/city-online-game/static/js/main.36e5144c.js",
     "static/js/787.8aed588d.chunk.js": "/city-online-game/static/js/787.8aed588d.chunk.js",
     "index.html": "/city-online-game/index.html",
-    "main.a88f778e.css.map": "/city-online-game/static/css/main.a88f778e.css.map",
-    "main.2c0ae258.js.map": "/city-online-game/static/js/main.2c0ae258.js.map",
+    "main.3cecba18.css.map": "/city-online-game/static/css/main.3cecba18.css.map",
+    "main.36e5144c.js.map": "/city-online-game/static/js/main.36e5144c.js.map",
     "787.8aed588d.chunk.js.map": "/city-online-game/static/js/787.8aed588d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a88f778e.css",
-    "static/js/main.2c0ae258.js"
+    "static/css/main.3cecba18.css",
+    "static/js/main.36e5144c.js"
   ]
 }
