@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/city-online-game/static/css/main.a88f778e.css",
-    "main.js": "/city-online-game/static/js/main.0cd4efcb.js",
-    "static/js/787.8aed588d.chunk.js": "/city-online-game/static/js/787.8aed588d.chunk.js",
-    "index.html": "/city-online-game/index.html",
-    "main.a88f778e.css.map": "/city-online-game/static/css/main.a88f778e.css.map",
-    "main.0cd4efcb.js.map": "/city-online-game/static/js/main.0cd4efcb.js.map",
-    "787.8aed588d.chunk.js.map": "/city-online-game/static/js/787.8aed588d.chunk.js.map"
+    "main.css": "/static/css/main.a88f778e.css",
+    "main.js": "/static/js/main.17dd2b2e.js",
+    "static/js/787.8aed588d.chunk.js": "/static/js/787.8aed588d.chunk.js",
+    "index.html": "/index.html",
+    "main.a88f778e.css.map": "/static/css/main.a88f778e.css.map",
+    "main.17dd2b2e.js.map": "/static/js/main.17dd2b2e.js.map",
+    "787.8aed588d.chunk.js.map": "/static/js/787.8aed588d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a88f778e.css",
-    "static/js/main.0cd4efcb.js"
+    "static/js/main.17dd2b2e.js"
   ]
 }
