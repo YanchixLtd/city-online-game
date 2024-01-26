@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcity_online_game=self.webpackChunkcity_online_game||[]).push([[652],{9652:(e,s,a)=>{a.d(s,{worker:()=>g});var n=a(832),t=a(1008),c=a(4152),o=a(2633);const r=[t.d.get("".concat(o.T5,"/landing"),(e=>{let{request:s}=e;const{searchParams:a}=new URL(s.url);return c.Z.json({message:"OK",gameId:"MOCK-".concat(a.get("respId"))})})),t.d.post("".concat(o.T5,"/data"),(()=>c.Z.json({message:"OK"})))],g=(0,n.L)(...r)}}]);
+//# sourceMappingURL=652.a617c02c.chunk.js.map
