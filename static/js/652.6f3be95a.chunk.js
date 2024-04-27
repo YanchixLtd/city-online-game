@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkcity_online_game=self.webpackChunkcity_online_game||[]).push([[652],{9652:(e,n,c)=>{c.d(n,{worker:()=>s});const s=(0,c(3031).L)()}}]);
-//# sourceMappingURL=652.6f3be95a.chunk.js.map
