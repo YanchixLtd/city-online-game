@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.86942506.css",
-    "main.js": "/static/js/main.c17606bc.js",
+    "main.js": "/static/js/main.e81b87a8.js",
     "static/js/706.4a10deae.chunk.js": "/static/js/706.4a10deae.chunk.js",
     "static/css/498.9aa9586c.chunk.css": "/static/css/498.9aa9586c.chunk.css",
     "static/js/498.434eba8e.chunk.js": "/static/js/498.434eba8e.chunk.js",
@@ -9,7 +9,7 @@
     "static/js/522.3494a23b.chunk.js": "/static/js/522.3494a23b.chunk.js",
     "static/js/719.167d2228.chunk.js": "/static/js/719.167d2228.chunk.js",
     "static/js/864.d427b81e.chunk.js": "/static/js/864.d427b81e.chunk.js",
-    "static/js/104.af7f34bd.chunk.js": "/static/js/104.af7f34bd.chunk.js",
+    "static/js/104.e8e67b68.chunk.js": "/static/js/104.e8e67b68.chunk.js",
     "static/media/post-8-5-full.webp": "/static/media/post-8-5-full.0fd23f3f7708e25f90ff.webp",
     "static/media/post-6-1-full.webp": "/static/media/post-6-1-full.c0cf3db4e9878743ef55.webp",
     "static/media/quick-task-5-full.webp": "/static/media/quick-task-5-full.a7109e4933d2f0e1dd04.webp",
@@ -132,6 +132,6 @@
   },
   "entrypoints": [
     "static/css/main.86942506.css",
-    "static/js/main.c17606bc.js"
+    "static/js/main.e81b87a8.js"
   ]
 }
